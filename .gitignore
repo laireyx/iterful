@@ -1,0 +1,4 @@
+node_modules/
+
+# Coverage test result
+coverage/
